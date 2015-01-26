@@ -10,8 +10,6 @@
 	 * @class fabric.Image.filters.RemoveColor
 	 * @memberOf fabric.Image.filters
 	 * @extends fabric.Image.filters.BaseFilter
-	 * @see {@link fabric.Image.filters.RemoveColor#initialize} for constructor definition
-	 * @see {@link http://fabricjs.com/image-filters/|ImageFilters demo}
 	 * @example
 	 * var filter = new fabric.Image.filters.RemoveColor({
 	 *   color: [235,158,84]
